@@ -1,0 +1,4 @@
+Rayden: 10
+Vincent: 9 
+Marvin: 8
+Arthur: 7
